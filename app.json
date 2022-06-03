@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "SocoreViewe-app",
+    "slug": "SocoreViewe-app",
+    "version": "1.0.0",
+    "icon":"src/assets/icon1.png",
+    "splash":{
+      "image":"src/assets/hawks.png",
+      "resizeMode": "contain",
+      "backgroundColor":"#D30529"
+
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "SocoreViewe-app"
+}
