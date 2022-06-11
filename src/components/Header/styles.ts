@@ -17,6 +17,8 @@ export const Avatar = styled.Image`
 `;
 
 export const Logo = styled.Image`
-  width: 110px;
-  height: 25px;
+  width: 200px;
+  height: 50px;
+  border-radius: 25px;
+  
 `;

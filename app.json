@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "SocoreViewe-app",
-    "slug": "SocoreViewe-app",
+    "name": "ScoreViewer-app",
+    "slug": "ScoreViewer-app",
     "version": "1.0.0",
     "icon":"src/assets/icon1.png",
     "splash":{
@@ -14,5 +14,5 @@
       "**/*"
     ]
   },
-  "name": "SocoreViewe-app"
+  "name": "ScoreViewer-app"
 }
